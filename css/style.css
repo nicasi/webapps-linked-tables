@@ -1,0 +1,6 @@
+.error {
+    padding: 10px;
+    background-color: pink;
+    border: 3px solid red;
+    width: fit-content;
+}
